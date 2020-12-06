@@ -1,4 +1,8 @@
-
+			
+			se debe crear en el aws una llave privada llamada keyjamtest3
+			
+			Ejecutar los comandos para la instalacion de elixir y phoenix como esta descrito.
+			
 			#erlang y elixir
 			wget https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb 
 			sudo dpkg -i erlang-solutions_1.0_all.deb
